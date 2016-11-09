@@ -1,9 +1,8 @@
-# Intro_to_Python
+# Introduction to Python
 
 These codes are for QuantCon Singapore 2016, 10 Nov 2016
 
-http://quantcon.sg/
-
+[QuantCon SG](http://quantcon.sg/)
 
 |  Start   |  End    | Content     |
 | --- | --- | --- |
