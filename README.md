@@ -13,3 +13,7 @@ These codes are for QuantCon Singapore 2016, 10 Nov 2016
 |3:00pm | 3:30pm |	Group afternoon break |
 |3:30pm | 5:00pm |	Exercise |
 
+NB: The exercise portion can be extended to [Quantopian lectures](https://www.quantopian.com/lectures). Some lectures can be considered are:
+
+    * Beta Hedging
+    * Introduction to Pairs Trading
